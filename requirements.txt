@@ -1,5 +1,5 @@
 swampdragon
-Django==1.7
+Django==2.2.24
 SwampDragon==0.4.1.0
 SwampDragon-auth==0.1.3
 Whoosh==2.6.0
